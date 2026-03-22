@@ -1,5 +1,25 @@
-# Smart-Palindrome-Detector
-A simple Java program that checks whether a given word or phrase is a palindrome.
-It ignores spaces, punctuation, and letter casing to ensure accurate results.  
+# 🔍 Palindrome Checker (Java)
 
-🔹 Features:  Handles words and full sentences Ignores spaces and special characters Case-insensitive comparison
+A simple and efficient Java program that checks whether a given word or phrase is a palindrome. The program ignores spaces, punctuation, and letter casing to ensure accurate results.
+
+---
+
+## ✨ Features
+- ✅ Supports words and full sentences  
+- ✅ Ignores spaces and special characters  
+- ✅ Case-insensitive comparison  
+- ✅ Easy-to-understand logic for beginners  
+
+---
+
+## 🛠️ Tech Stack
+- Java
+- String Manipulation
+- Loops & Conditional Statements
+
+---
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/palindrome-checker-java.git
