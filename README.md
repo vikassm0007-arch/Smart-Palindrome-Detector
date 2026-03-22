@@ -21,5 +21,5 @@ A simple and efficient Java program that checks whether a given word or phrase i
 
 ## 🚀 How to Run
 1. Clone the repository:
-   ```bash](https://github.com/vikassm0007-arch/Smart-Palindrome-Detector)
+ (https://github.com/vikassm0007-arch/Smart-Palindrome-Detector)
 
